@@ -1,6 +1,7 @@
 # Skill Match - A JOB PORTAL
 
 🔗 Live Frontend: https://job-portal-lac-chi.vercel.app/
+
 Skill Match is a full‑stack placement/job portal built with:
 - Backend: Node.js + Express + MongoDB (+ Cloudinary for image uploads)
 - Frontend: React + Vite + Tailwind CSS
