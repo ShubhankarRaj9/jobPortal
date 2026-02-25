@@ -1,6 +1,6 @@
-# TalentBridge - A JOB PORTAL
+# Skill Match - A JOB PORTAL
 
-TalentBridge is a full‑stack placement/job portal built with:
+Skill Match is a full‑stack placement/job portal built with:
 - Backend: Node.js + Express + MongoDB (+ Cloudinary for image uploads)
 - Frontend: React + Vite + Tailwind CSS
 
